@@ -1,4 +1,4 @@
-# Roux
+# Rhodan
 
 ![GitHub](https://img.shields.io/github/license/jxhn/rhodan)
 

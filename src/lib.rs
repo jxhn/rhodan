@@ -8,5 +8,5 @@ pub struct ShodanClient {
 }
 
 pub fn new(api_key: &'static str) -> ShodanClient {
-    ShodanClient { api_key, client: Client::new()}
+    ShodanClient { api_key, client: Client::new() }
 }
